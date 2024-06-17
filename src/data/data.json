@@ -1,0 +1,155 @@
+{
+    "Header": {
+        "title": "We are a Accomodation Provider",
+        "paragraph": "Roomee provide accomodation services for Hostels and PGs"
+    },
+    "About": {
+        "paragraph": "Welcome to our website, the ultimate destination for students. We cater to your specific needs, providing budget-friendly accommodations that prioritize comfort and safety. With a seamless booking process, we aim to make your journey stress-free. Explore, connect, and create unforgettable experiences in our student-focused hostels. Immerse yourself in a vibrant community of like-minded individuals, fostering lifelong friendships and invaluable connections. Our hostels offer a range of amenities, including study areas, social lounges, and recreational spaces, ensuring a well-rounded experience. Choose us as your trusted partner in your academic journey, where comfort, convenience, and camaraderie await you.",
+        "Why": [
+            "Authentic Services",
+            "Easy Transaction",
+            "Easy Review ",
+            "Early Response"
+        ],
+        "Why2": [
+            "Easy Interaction",
+            "Time Efficient",
+            "Multiple Hostel Options",
+            "Best Booking Deals"
+        ]
+    },
+    "Gallery": [{
+            "title": "Single Seater",
+            "largeImage": "img/portfolio/im1.jpg",
+            "smallImage": "img/portfolio/im1.jpg"
+        },
+        {
+            "title": "Double Seater",
+            "largeImage": "img/portfolio/im3.jpg",
+            "smallImage": "img/portfolio/im3.jpg"
+        },
+        {
+            "title": "Multi Seater",
+            "largeImage": "img/portfolio/im2.jpg",
+            "smallImage": "img/portfolio/im2.jpg"
+        }
+
+
+
+
+
+
+    ],
+    "Services": [{
+            "icon": "fa fa-user ",
+            "name": "Online Room Booking",
+            "text": "Discover your perfect home away from home with our hassle-free online room booking for hostels and PGs. Find comfort, convenience, and community at the click of a button!"
+        },
+        {
+            "icon": "fa fa-money",
+            "name": "Online Transactions",
+            "text": "Simplify your room booking experience with our secure online transactions. Say goodbye to paperwork and long queues, and say hello to seamless payments and instant confirmations!"
+        },
+        {
+            "icon": "fa fa-cutlery",
+            "name": "Online Tiffin Booking",
+            "text": "Enhance your stay with our exclusive online tiffin facility included in every room booking. Relish the convenience of mouthwatering meals delivered straight to your door!"
+        },
+        {
+            "icon": "fa fa-phone ",
+            "name": "User Interaction",
+            "text": "Seamlessly communicate with our dedicated team, ensuring every detail of your stay is tailored to perfection. Enjoy a truly interactive and tailored booking experience that exceeds your expectations!"
+        },
+        {
+            "icon": "fa fa-eye",
+            "name": "Online Room Review",
+            "text": "Unlock the power of choice with our room view facility for seamless room bookings. Explore and select your ideal room from the comfort of your own screen. Take a virtual tour and experience each room's ambiance, layout, and stunning views before making your decision."
+        },
+        {
+            "icon": "fa fa-weixin",
+            "name": "Online Chating",
+            "text": "Connect with us effortlessly through our online chatting facility for room bookings. Have instant access to our friendly and knowledgeable team, ready to assist you with any queries or concerns."
+        }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"I stumbled upon this website while searching for affordable accommodations for my semester abroad. The process was incredibly easy, and I found a great hostel room within my budget. The website provided detailed descriptions and photos, making it simple to make an informed choice. Highly recommended!\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"As a student traveler, I rely on this  website for all my accommodation needs. It offers a wide range of options tailored specifically for students, ensuring I find affordable and comfortable rooms wherever I go. The user-friendly interface and secure payment system make the booking process a breeze. Thank you!\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"I've had the best experiences using this  website for my backpacking adventures. Not only did I find budget-friendly hostels, but the reviews and ratings helped me choose the perfect one for each city. The website's customer support team was also prompt and helpful. I can't imagine traveling without it!\"",
+            "name": "Mohit Rastogi"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"I can't recommend this website enough! It has made my solo travel experiences stress-free and enjoyable. The website's detailed descriptions, photos, and customer reviews gave me confidence in my choices. Thanks to this platform, I've stayed in fantastic hostels, made new friends, and created unforgettable memories.\"",
+            "name": "Roy Asthana"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"I discovered this website during my study abroad program, and it quickly became my trusted companion. The website's vast selection of hostels, along with the ability to filter by price and location, made finding the perfect accommodation a breeze. It's a reliable resource that every student traveler should have.\"",
+            "name": "Jack Shanao"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"This website has been a game-changer for me as a student traveler. It's saved me both time and money by providing a comprehensive list of hostels that fit my budget and preferences. The seamless booking process and reliable customer support make it my go-to choice every time.\"",
+            "name": "Michele Simon"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-home",
+            "title": "Advanced Room Search",
+            "text": "Filter rooms by location, price, and amenities to find your perfect match effortlessly."
+        },
+        {
+            "icon": "fa fa-binoculars",
+            "title": "Interactive Room View",
+            "text": "Take virtual tours, explore layouts, and envision your stay before booking with our immersive room view feature."
+        },
+        {
+            "icon": "fa fa-money",
+            "title": "Secure Payment Options",
+            "text": " Experience peace of mind with our secure payment methods, safeguarding your transactions and personal information."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Ratings and Reviews",
+            "text": " Make informed decisions based on authentic feedback from our community, ensuring the quality of your chosen accommodation."
+        }
+    ]
+}
